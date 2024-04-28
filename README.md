@@ -77,3 +77,7 @@ En el repositorio de Github hay tres ramas:
  - development: que es un rama creada desde master que pide el ejercicio
 
 En este caso no se han generado conflictos que haya que tenido que resolver. 
+
+En un principio creé este repositorio de Github como privado pero le he cambiado la visibilidad a público para que sea fácil de corregir. 
+![Captura de pantalla 2024-04-28 a las 22 57 27](https://github.com/sandrusmb/laboratorio-1-git/assets/44322246/da6b70e5-de66-4f54-8d81-efc338c85b06)
+
